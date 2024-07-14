@@ -12,21 +12,13 @@ const response = JSON.stringify({
     online: 6267,
     sample: [
       {
-        name: "         §f§lEducatedSuddenBucket",
+        name: "EducatedSuddenBucket",
         id: "00000000-0000-0000-0000-000000000000"
-      },
-      {
-        name: "§8§l| §7Made By: §fEducatedSuddenBucket",
-        id: "00000000-0000-0000-0000-000000000002"
-      },
-      {
-        name: "§8§l| §7Server By: §fEducatedSuddenBucket",
-        id: "00000000-0000-0000-0000-000000000003"
       }
     ]
   },
   description: {
-    text: "     §d⏷§b §fMade By §b⏷   §aEducatedSuddenBucket   §d⏷§b §fServer §b⏷\n     §eVisit: https://educatedsuddenbucket.is-a.dev/"
+    text: " Made By EducatedSuddenBucket Visit: https://educatedsuddenbucket.is-a.dev/"
   }
 });
 
